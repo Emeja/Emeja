@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Emeja
+- 👀 I’m interested in game development, especially in C++ with a pinch of SDL, a dash of ENTT and a hint of Box2D.
+- 🌱 I’m currently learning. Fullstop.
+- 💞️ I’m looking to collaborate on cool stuff.
+- 📫 How to reach me... nobody knows...
